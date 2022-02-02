@@ -105,6 +105,7 @@ Se tudo correu bem, você deve ser capaz de visualizar a documentação da API e
 ---
 
 ## Como testar
+Caso já tenha configurado o backend e o frontend, você pode testar a aplicação pela interface ou seguir os passos abaixo para testar com um API Client (Postman, Insomnia e etc)
 
 ⚠️ Credenciais de Administrador:
 
