@@ -25,6 +25,7 @@ O sistema possui autenticação/autorização com *token JWT* e protocolo *Oauth
     - Java 11
     - SpringBoot Framework
     - Hibernate
+    - Mockito
     - Liquibase
     - PostgreSQL
     - Swagger
