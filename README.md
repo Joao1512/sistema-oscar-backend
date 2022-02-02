@@ -9,6 +9,7 @@ Extra: Deve ser possível criar diferentes perfis de usuário e gerenciar suas p
 O sistema possui autenticação/autorização com *token JWT* e protocolo *Oauth2.*
 
 # Demonstração
+![23-27-25](https://user-images.githubusercontent.com/43080476/152084981-25e2fcc5-f745-4ae1-a16d-f9b37978da14.gif)
 
 # 💻 Tecnologias
 
@@ -38,7 +39,7 @@ Pré-requisitos: ter instalado o node, npm e o angular-cli .v11
 
 ### Clonando o repositório
 
-REPO_FRONT
+https://github.com/Joao1512/sistema-oscar-frontend.git
 
 ### Instalando as dependências
 
@@ -82,8 +83,7 @@ Rodar o Projeto Java com o [SpringToolSuite](https://spring.io/tools) para Eclip
 
 ### Clonando o repositório
 
-REPO_BACK
-
+https://github.com/Joao1512/sistema-oscar-backend.git
 ### ☕ Configurando o Projeto Java
 
 1. Abra o SpringToolSuite, vá em File > Import... > Existing Maven Project
