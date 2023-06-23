@@ -1,8 +1,8 @@
-# S1STEM - FRONTEND - OSCAR
+# S1STEM - BACKEND - SAPATOS
 
 # 🎯 Objetivo
 
-Desenvolver uma aplicação para a loja Oscar Calçados. Deve ser possível administrar um estoque de sapatos criando, editando, excluindo e listando-os com filtros.
+Desenvolver uma aplicação para a loja de calçados Deve ser possível administrar um estoque de sapatos criando, editando, excluindo e listando-os com filtros.
 
 Extra: Deve ser possível criar diferentes perfis de usuário e gerenciar suas permissões nas funcionalidades do sistema.
 
